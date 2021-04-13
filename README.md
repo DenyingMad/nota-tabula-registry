@@ -1,2 +1,2 @@
-# nota-tabula-registry
+# Nota Tabula - Registry
 Nota Tabula - Service Discovery
